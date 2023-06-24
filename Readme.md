@@ -11,5 +11,5 @@ Reto:
 
 Entregable:
 
-● Crear repositorio en github y compartirlo para su revisión
-incluir código y generación de matriz de casos de pruebas a detalle.
+● Crear repositorio en github y compartirlo para su revisión incluir código y 
+generación de matriz de casos de pruebas (src/resources/Ev-QA - TestCase.xlsx).
